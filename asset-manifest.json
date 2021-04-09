@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://zhiyingzhu1995.github.io/csb-he1uv/static/css/main.ccf19d06.chunk.css",
+    "main.js": "https://zhiyingzhu1995.github.io/csb-he1uv/static/js/main.b1ff5754.chunk.js",
+    "main.js.map": "https://zhiyingzhu1995.github.io/csb-he1uv/static/js/main.b1ff5754.chunk.js.map",
+    "runtime-main.js": "https://zhiyingzhu1995.github.io/csb-he1uv/static/js/runtime-main.227e720b.js",
+    "runtime-main.js.map": "https://zhiyingzhu1995.github.io/csb-he1uv/static/js/runtime-main.227e720b.js.map",
+    "static/js/2.d51387c8.chunk.js": "https://zhiyingzhu1995.github.io/csb-he1uv/static/js/2.d51387c8.chunk.js",
+    "static/js/2.d51387c8.chunk.js.map": "https://zhiyingzhu1995.github.io/csb-he1uv/static/js/2.d51387c8.chunk.js.map",
+    "index.html": "https://zhiyingzhu1995.github.io/csb-he1uv/index.html",
+    "static/css/main.ccf19d06.chunk.css.map": "https://zhiyingzhu1995.github.io/csb-he1uv/static/css/main.ccf19d06.chunk.css.map",
+    "static/js/2.d51387c8.chunk.js.LICENSE.txt": "https://zhiyingzhu1995.github.io/csb-he1uv/static/js/2.d51387c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.227e720b.js",
+    "static/js/2.d51387c8.chunk.js",
+    "static/css/main.ccf19d06.chunk.css",
+    "static/js/main.b1ff5754.chunk.js"
+  ]
+}
